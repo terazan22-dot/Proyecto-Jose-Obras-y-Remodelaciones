@@ -99,8 +99,8 @@ p {
 @media (max-width: 768px) {
     .card-foto {
         margin-left: auto !important;
-        margin-right: auto !important; /* Esto centra el bloque perfectamente */
-        max-width: 90% !important;     /* Para que no se vea tan pegado a los bordes */
+        margin-right: auto !important;
+        max-width: 90% !important; 
     }
 }
 
